@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+body {
+	margin:0 auto;
+	width:600px;
+	border:1px solid black;
+	align:center;
+	padding:10px;
+}
+label,input {
+	margin:10px;
+}
+

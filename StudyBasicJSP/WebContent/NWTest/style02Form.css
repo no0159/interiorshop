@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+body {
+	margin: 0 auto;
+	width: 550px; 
+}
+h2 {
+	text-align:center;
+}
+filedset legend{
+	float:left;
+}
+label {
+	width:250px;
+	padding:5px;
+	margin-left:20px;
+	float:left;
+}
+label input {
+	float:right;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+div {
+	text-align:center;
+}
+input[type=submit] {
+	margin:20px;
+}

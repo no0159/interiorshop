@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+body {
+	margin:0 auto;
+	width:550px;
+	align:center;
+	padding:10px;
+}
+label,input {
+	margin:10px;
+}
+
